@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 👀 I'm interested in all things related to web development, including front-end technologies, back-end frameworks, and database management.
-- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
-- 💞️ I'm always open to collaboration and working on exciting projects with other developers.
+-  I'm interested in all things related to web development, including front-end technologies, back-end frameworks, and database management.
+-  I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
+-  I'm always open to collaboration and working on exciting projects with other developers.
 
 ## Contact Me
 
