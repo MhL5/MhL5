@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammad Lashani, I'm a passionate developer, from Iran.</h2>
+<h2 align="left">Hi 👋! My name is Mohammad Lashani, a passionate developer, from Iran.</h2>
 
 <div> <img width="1" alt="" /> </div>
 
