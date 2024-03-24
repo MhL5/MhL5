@@ -9,9 +9,9 @@
 </div>
 
 ###
-
+<h2> Skills: </h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="7" />
@@ -25,19 +25,51 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="7" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+</div>
+
+<h2> Backend Skills(WIP): </h2>
+
+<div align="left">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    height="40"
+    alt="nodejs logo"
+  />
+  <img width="7" />
+  <img
+    src="https://skillicons.dev/icons?i=express"
+    height="40"
+    alt="express logo"
+  />
+  <img width="7" />
+  <img
+    src="https://skillicons.dev/icons?i=mongodb"
+    height="40"
+    alt="mongodb logo"
+  />
+  <img width="7" />
+  <img
+    src="https://skillicons.dev/icons?i=postman"
+    height="40"
+    alt="postman logo"
+  />
+  <img width="7" />
+</div>
+
+
+<h2> UI/UX Skills(WIP): </h2>
+<div align="left">
+  <img
+    src="https://skillicons.dev/icons?i=figma"
+    height="40"
+    alt="figma logo"
+  />
+  <img width="7" />
 </div>
 
 ###
