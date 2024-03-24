@@ -19,67 +19,70 @@
 
 <div> <img width="1" alt="" /> </div>
 
-<h2> Skills: </h2>
+<h1 style="font-size:40px"> <strong>Skills :</strong>  </h1>
+
+<h3>
+<strong>Frontend : </strong> 
+</h3>
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
 </div>
 
-<div> <img width="1" alt="" /> </div>
-
-<h2> Backend Skills(WIP): </h2>
-
+<h3>
+<strong>Backend Skills(WIP): </strong> 
+</h3>
 <div align="left">
   <img
     src="https://skillicons.dev/icons?i=nodejs"
-    height="40"
+    height="30"
     alt="nodejs logo"
   />
   <img width="7" />
   <img
     src="https://skillicons.dev/icons?i=express"
-    height="40"
+    height="30"
     alt="express logo"
   />
   <img width="7" />
   <img
     src="https://skillicons.dev/icons?i=mongodb"
-    height="40"
+    height="30"
     alt="mongodb logo"
   />
   <img width="7" />
   <img
     src="https://skillicons.dev/icons?i=postman"
-    height="40"
+    height="30"
     alt="postman logo"
   />
   <img width="7" />
 </div>
 
-<div> <img width="1" alt="" /> </div>
-
-<h2> UI/UX Skills(WIP): </h2>
+<h3>
+<strong>UI/UX Skills(WIP): </strong> 
+</h3>
 <div align="left">
   <img
     src="https://skillicons.dev/icons?i=figma"
-    height="40"
+    height="30"
     alt="figma logo"
   />
   <img width="7" />
@@ -98,6 +101,4 @@
   </a>
 </div>
 
-<div> <img width="1" alt="" /> </div>
-<img src="https://raw.githubusercontent.com/mhl5/mhl5/output/snake.svg" alt="Snake animation" />
 
