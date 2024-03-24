@@ -1,14 +1,16 @@
 <h2 align="left">Hi 👋! My name is Mohammad Lashani, I'm a passionate developer, from Iran.</h2>
 
-###
+<div> <img width="1" alt="" /> </div>
 
 <div align="left">
+  <div width="1"> </div>
   <img src="https://github-readme-stats.vercel.app/api?username=mhl5&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img width="7" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhl5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<div> <img width="1" alt="" /> </div>
+
 <h2> Skills: </h2>
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -31,6 +33,8 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
+
+<div> <img width="1" alt="" /> </div>
 
 <h2> Backend Skills(WIP): </h2>
 
@@ -61,6 +65,7 @@
   <img width="7" />
 </div>
 
+<div> <img width="1" alt="" /> </div>
 
 <h2> UI/UX Skills(WIP): </h2>
 <div align="left">
@@ -72,7 +77,8 @@
   <img width="7" />
 </div>
 
-###
+<div> <img width="1" alt="" /> </div>
+<div> <img width="1" alt="" /> </div>
 
 <div align="left">
   <a href="https://discord.com/users/649998586154844160" target="_blank">
@@ -84,8 +90,6 @@
   </a>
 </div>
 
-###
-
+<div> <img width="1" alt="" /> </div>
 <img src="https://raw.githubusercontent.com/mhl5/mhl5/output/snake.svg" alt="Snake animation" />
 
-###
