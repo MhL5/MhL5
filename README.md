@@ -5,13 +5,11 @@
 <div><img width="1" alt="" /></div>
 
 <div align="left">
-  <div width="1"></div>
   <img
     src="https://github-readme-stats-theta-dun-69.vercel.app/api?username=mhl5&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en"
     height="150"
     alt="stats graph"
   />
-  <img width="7" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mhl5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
     height="150"
@@ -23,9 +21,7 @@
 
 <h1 style="font-size: 40px"><strong>Skills :</strong></h1>
 
-<h3>
-  <strong>Frontend : </strong>
-</h3>
+
 <div align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
