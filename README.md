@@ -139,7 +139,7 @@
 <h2 style="font-size: 25px"><strong>Contacts :</strong></h2>
 
 [<img
-    src="https://www.svgrepo.com/show/331368/discord.svg"
+    src="https://www.svgrepo.com/show/331368/discord-v2.svg"
     height="25"
     alt="discord link" />](https://discord.com/users/649998586154844160)
 [<img
