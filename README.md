@@ -65,12 +65,7 @@
       /><br />GitHub
     </td>
     <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        height="40"
-        width="40"
-        alt="javascript logo"
-      /><br />Javascript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><br />Javascript
     </td>
     <td align="center" width="96">
       <img
