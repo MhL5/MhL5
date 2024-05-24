@@ -17,7 +17,7 @@
     height="30"
     width="30"
     alt="html5 logo"
-  /><br />HTML
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -25,7 +25,7 @@
     height="30"
     width="30"
     alt="css3 logo"
-  /><br />CSS
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -33,7 +33,7 @@
     width="40"
     height="40"
     alt="Sass"
-  /><br />Sass
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -41,7 +41,7 @@
     width="30"
     height="30"
     alt="tailwind"
-  /><br />Tailwind
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -49,7 +49,7 @@
     height="30"
     width="30"
     alt="git logo"
-  /><br />Git
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -57,11 +57,10 @@
     width="50"
     height="50"
     alt="GitHub"
-  /><br />GitHub
+  />
 </span>
-<br>
 <span style="display: inline-block; text-align: center; margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" /><br />Javascript
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -69,7 +68,7 @@
     alt="icon"
     width="40"
     height="40"
-  /><br />React
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -77,7 +76,7 @@
     height="30"
     width="30"
     alt="supabase logo"
-  /><br />Supabase
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -85,7 +84,7 @@
     alt="icon"
     width="50"
     height="50"
-  /><br />TS
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -93,16 +92,15 @@
     height="30"
     width="30"
     alt="nodejs logo"
-  /><br />Node js
+  />
 </span>
-<br>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
     src="https://skillicons.dev/icons?i=bun"
     height="30"
     width="30"
     alt="bun logo"
-  /><br />Bun
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -110,7 +108,7 @@
     height="30"
     width="30"
     alt="postman logo"
-  /><br />Postman
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -118,7 +116,7 @@
     width="30"
     height="30"
     alt="MongoDB"
-  /><br />MongoDB
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -126,7 +124,7 @@
     width="30"
     height="30"
     alt="NextJS"
-  /><br />Next.js
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -134,7 +132,7 @@
     width="30"
     height="30"
     alt="Express js"
-  /><br />Express.js
+  />
 </span>
 
 <div><img width="1" alt="" /></div>
