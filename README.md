@@ -1,29 +1,34 @@
-<div align="left">
- <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome!+I'm+excited+to+have+you+here." alt="Typing SVG" style="display: inline-block;">
-</div>
+<h2 align="left">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome!+I'm+excited+to+have+you+here."
+    alt="Typing SVG"
+    style="display: inline-block"
+  />
+</h2>
 
 - 💻 I'm a Passionate developer and tech enthusiast
-- ⚡ Constantly learning, building, and pushing 🙂
+- ⚡ Constantly learning, building, and pushing 🙂 
+
+<br>
 
 ## Tools and Technologies 🛠
-
 <table align="center">
   <tr>
     <td align="center" width="96">
       <img
-        src="https://techstack-generator.vercel.app/ts-icon.svg"
-        alt="icon"
-        width="65"
-        height="65"
-      /><br />TS
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        height="40"
+        width="40"
+        alt="html5 logo"
+      /><br />HTML
     </td>
     <td align="center" width="96">
       <img
-        src="https://techstack-generator.vercel.app/react-icon.svg"
-        alt="icon"
-        width="65"
-        height="65"
-      /><br />React
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        height="40"
+        width="40"
+        alt="css3 logo"
+      /><br />CSS
     </td>
     <td align="center" width="96">
       <img
@@ -35,63 +40,21 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=expressjs"
-        width="48"
-        height="48"
-        alt="Expressjs"
-      /><br />Express.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        height="65"
-        width="65"
-        alt="css3 logo"
-      /><br />CSS
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=nextjs"
-        width="48"
-        height="48"
-        alt="NextJS"
-      /><br />Next.js
-    </td>
-    <td align="center" width="96">
-      <img
         src="https://skillicons.dev/icons?i=tailwind"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="tailwind"
       /><br />Tailwind
     </td>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        height="65"
-        width="65"
-        alt="javascript logo"
-      /><br />Nestjs
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=supabase"
-        height="65"
-        width="65"
-        alt="supabase logo"
-      /><br />Supabase
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=nodejs"
-        height="65"
-        width="65"
-        alt="nodejs logo"
-      /><br />Node js
+        src="https://skillicons.dev/icons?i=git"
+        height="40"
+        width="40"
+        alt="git logo"
+      /><br />Git
     </td>
     <td align="center" width="96">
       <img
@@ -103,45 +66,87 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         height="40"
         width="40"
-        alt="html5 logo"
-      /><br />HTML
+        alt="javascript logo"
+      /><br />Javascript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
+        width="65"
+        height="65"
+      /><br />React
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=bun"
-        height="65"
-        width="65"
-        alt="bun logo"
-      /><br />Bun
+        src="https://skillicons.dev/icons?i=supabase"
+        height="40"
+        width="40"
+        alt="supabase logo"
+      /><br />Supabase
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=postman"
-        height="65"
+        src="https://techstack-generator.vercel.app/ts-icon.svg"
+        alt="icon"
         width="65"
+        height="65"
+      /><br />TS
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        height="40"
+        width="40"
+        alt="nodejs logo"
+      /><br />Node js
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=bun"
+        height="40"
+        width="40"
+        alt="bun logo"
+      /><br />Bun
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=postman"
+        height="40"
+        width="40"
         alt="postman logo"
       /><br />Postman
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=git"
-        height="65"
-        width="65"
-        alt="git logo"
-      /><br />Git
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="40"
+        height="40"
+        alt="MongoDB"
+      /><br />MongoDB
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=mongodb"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      /><br />MongoDB
+        src="https://skillicons.dev/icons?i=nextjs"
+        width="40"
+        height="40"
+        alt="NextJS"
+      /><br />Next.js
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=expressjs"
+        width="40"
+        height="40"
+        alt="Express js"
+      /><br />Express.js
     </td>
   </tr>
 </table>
