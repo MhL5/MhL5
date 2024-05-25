@@ -9,6 +9,8 @@
 - I'm a Passionate developer and tech enthusiast 💻
 - Constantly learning, building, and pushing 🙂
 
+<br>
+
 ## Tools and Technologies 🛠
 
 <div style="display: flex; flex-wrap: wrap; justify-content: start; align-items: center; ">
