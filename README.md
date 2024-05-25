@@ -1,16 +1,17 @@
-<div align="left">
+<h2 align="left">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome!+I'm+excited+to+have+you+here."
     alt="Typing SVG"
     style="display: inline-block"
   />
-</div>
+</h2>
 
-- 💻 I'm a Passionate developer and tech enthusiast
-- ⚡ Constantly learning, building, and pushing 🙂
+- I'm a Passionate developer and tech enthusiast 💻
+- Constantly learning, building, and pushing 🙂
 
 ## Tools and Technologies 🛠
 
+<div style="display: flex; flex-wrap: wrap; justify-content: start; align-items: center; ">
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -53,14 +54,20 @@
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
+    style="background-color: rgba(100, 100, 100, 0.1);border-radius: 150px; "
     src="https://techstack-generator.vercel.app/github-icon.svg"
-    width="50"
-    height="50"
+    width="40"
+    height="40"
     alt="GitHub"
   />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img
+  src="https://techstack-generator.vercel.app/js-icon.svg" 
+  alt="icon" 
+  width="40" 
+  height="40" 
+  />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
   <img
@@ -82,8 +89,8 @@
   <img
     src="https://techstack-generator.vercel.app/ts-icon.svg"
     alt="icon"
-    width="50"
-    height="50"
+    width="40"
+    height="40"
   />
 </span>
 <span style="display: inline-block; text-align: center; margin: 5px;">
@@ -134,6 +141,7 @@
     alt="Express js"
   />
 </span>
+</div>
 
 <div><img width="1" alt="" /></div>
 <div><img width="1" alt="" /></div>
