@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome!+I'm+excited+to+have+you+here."
     alt="Typing SVG"
@@ -6,144 +6,146 @@
   />
 </h2>
 
-- I'm a Passionate developer and tech enthusiast 💻
-- Constantly learning, building, and pushing 🙂
+- 💻 I'm a Passionate developer and tech enthusiast
+- ⚡ Constantly learning, building, and pushing 🙂
 
 <br>
 
-## Tools and Technologies 🛠
+## Tools and Technologies 🛠s
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; align-items: center; ">
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    height="30"
-    width="30"
-    alt="html5 logo"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    height="30"
-    width="30"
-    alt="css3 logo"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://techstack-generator.vercel.app/sass-icon.svg"
-    width="40"
-    height="40"
-    alt="Sass"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=tailwind"
-    width="30"
-    height="30"
-    alt="tailwind"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=git"
-    height="30"
-    width="30"
-    alt="git logo"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    style="background-color: rgba(100, 100, 100, 0.1);border-radius: 150px; "
-    src="https://techstack-generator.vercel.app/github-icon.svg"
-    width="40"
-    height="40"
-    alt="GitHub"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-  src="https://techstack-generator.vercel.app/js-icon.svg" 
-  alt="icon" 
-  width="40" 
-  height="40" 
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://techstack-generator.vercel.app/react-icon.svg"
-    alt="icon"
-    width="40"
-    height="40"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=supabase"
-    height="30"
-    width="30"
-    alt="supabase logo"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://techstack-generator.vercel.app/ts-icon.svg"
-    alt="icon"
-    width="40"
-    height="40"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs"
-    height="30"
-    width="30"
-    alt="nodejs logo"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=bun"
-    height="30"
-    width="30"
-    alt="bun logo"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=postman"
-    height="30"
-    width="30"
-    alt="postman logo"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=mongodb"
-    width="30"
-    height="30"
-    alt="MongoDB"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=nextjs"
-    width="30"
-    height="30"
-    alt="NextJS"
-  />
-</span>
-<span style="display: inline-block; text-align: center; margin: 5px;">
-  <img
-    src="https://skillicons.dev/icons?i=expressjs"
-    width="30"
-    height="30"
-    alt="Express js"
-  />
-</span>
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        height="40"
+        width="40"
+        alt="html5 logo"
+      /><br />HTML
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        height="40"
+        width="40"
+        alt="css3 logo"
+      /><br />CSS
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/sass-icon.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      /><br />Sass
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="40"
+        height="40"
+        alt="tailwind"
+      /><br />Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=git"
+        height="40"
+        width="40"
+        alt="git logo"
+      /><br />Git
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/github-icon.svg"
+        width="48"
+        height="48"
+        alt="GitHub"
+      /><br />GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><br />Javascript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
+        width="40"
+        height="40"
+      /><br />React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=supabase"
+        height="40"
+        width="40"
+        alt="supabase logo"
+      /><br />Supabase
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/ts-icon.svg"
+        alt="icon"
+        width="65"
+        height="65"
+      /><br />TS
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        height="40"
+        width="40"
+        alt="nodejs logo"
+      /><br />Node js
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=bun"
+        height="40"
+        width="40"
+        alt="bun logo"
+      /><br />Bun
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=postman"
+        height="40"
+        width="40"
+        alt="postman logo"
+      /><br />Postman
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="40"
+        height="40"
+        alt="MongoDB"
+      /><br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=nextjs"
+        width="40"
+        height="40"
+        alt="NextJS"
+      /><br />Next.js
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=expressjs"
+        width="40"
+        height="40"
+        alt="Express js"
+      /><br />Express.js
+    </td>
+  </tr>
+</table>
 
 <div><img width="1" alt="" /></div>
 <div><img width="1" alt="" /></div>
