@@ -11,7 +11,7 @@
 
 <br>
 
-## Tools and Technologies 🛠s
+## Tools and Technologies 🛠
 
 <table>
   <tr>
@@ -196,15 +196,9 @@
 <div><img width="1" alt="" /></div>
 <div><img width="1" alt="" /></div>
 
-<h2 style="font-size: 25px"><strong>Contacts :</strong></h2>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/649998586154844160) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/mhl_5) 
 
-[<img
-  src="https://www.svgrepo.com/show/331368/discord-v2.svg"
-  height="25"
-  alt="discord link"
-/>](https://discord.com/users/649998586154844160) [<img
-  style="color: #26a5e4"
-  src="https://www.svgrepo.com/show/452115/telegram.svg"
-  alt="telegram link"
-  height="25"
-/>](https://t.me/mhl_5)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
