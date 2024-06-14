@@ -11,7 +11,7 @@
 
 <br>
 
-## Tools and Technologies 🛠
+## 🛠 Tools and Technologies 
 
 <table>
   <tr>
@@ -150,7 +150,7 @@
 <div><img width="1" alt="" /></div>
 <div><img width="1" alt="" /></div>
 
-<h2 style="font-size: 25px"><strong>Stats :</strong></h2>
+<h2 style="font-size: 25px"><strong> 📊 Stats :</strong></h2>
 
 <div align="left">
   <div>
