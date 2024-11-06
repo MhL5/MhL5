@@ -7,13 +7,8 @@
         alt="figma logo"
         align="center"
       />
-      <strong> Github stats : </strong>
+      <strong> Most used Languages : </strong>
     </h4>
-    <img
-      src="https://github-readme-stats-theta-dun-69.vercel.app/api?username=mhl5&show_icons=true&include_all_commits=true&count_private=true&theme=nord&locale=en&border_color=434C5E"
-      height="150"
-      alt="stats graph"
-    />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mhl5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&include_all_commits=true&count_private=true&border_color=434C5E"
       height="150"
