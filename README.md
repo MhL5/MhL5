@@ -4,7 +4,7 @@
       <img
         src="https://skillicons.dev/icons?i=github"
         height="25"
-        alt="figma logo"
+        alt="github logo"
         align="center"
       />
       <strong> Most used Languages : </strong>
